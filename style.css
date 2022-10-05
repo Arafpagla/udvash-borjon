@@ -1,0 +1,23 @@
+.image{
+    height: 100%;
+    width: 100%;
+    border-radius: 7%;
+    }
+    .udvash{
+    
+    border: 5px solid rgb(91, 255, 58);
+    border-radius: 20px;
+    width: 25%;
+    margin: 10px;
+    float: left;
+    }
+    .text1{
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 15px;
+    }
+    .headline_{
+        font-size: 35%;
+        color: yellow;
+    }
